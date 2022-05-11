@@ -1,9 +1,6 @@
 # Chopsticks-Pygame
 A strategy numbers game inspired by the Chopsticks Hand Game
 
-## Screenshots
-![alt text]()
-
 ## Background
 Information on how to play the game is on the [itch.io](https://sjones14.itch.io/chopsticks) page for the game
 
