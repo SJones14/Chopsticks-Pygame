@@ -7,7 +7,7 @@ Information on how to play the game is on the [itch.io](https://sjones14.itch.io
 ## Installation
 Get the the most recent version of the game [here](https://sjones14.itch.io/chopsticks) for both Windows and MacOS
 
-Links for External Elements Used:
+### Links for External Elements Used:
 
 Font: https://www.1001fonts.com/pix-pixelfjverdana12pt-font.html
 
